@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;1,700&family=Square+Peg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Playfair+Display+SC:ital,wght@0,400;1,700&family=Square+Peg&display=swap');
+@keyframes slidein {
+    from {
+        margin-left: 100%;
+        width: 300%;
+      }
+    
+      to {
+        margin-left:0;
+        width: 100%;
+      }
+}
+h2{
+    color: black;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+#titre{
+    font-weight: bold;
+    color: gray;
+
+}
+li a {
+    color: black;
+    
+}
+li a:hover {
+    background-color: #CD853F ;
+}
+h3{
+    color: black;
+    text-decoration: underline;
+}
+p{
+    color:red;
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: bold;
+    font-family:'Playfair Display SC', serif;
+   
+}
+a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul {
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+#niveau{
+    color: darkgreen;
+}
+#text{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    font-family:'Playfair Display SC', serif;
+    
+
+}
+button{
+    background-color: wheat;
+    display: block;
+    font-weight: bold;
+    font-size: 13px;
+    margin: 10px 0px;
+    cursor: pointer;
+    border-radius: 8px;
+   
+    
+}
+.n1{
+    background-color: lightgrey;
+    border:6px grey solid;
+    border-radius: 10px;
+    padding-left: 25px;
+}
+#lien{
+    color: black;
+    text-decoration: none;
+}
+figcaption{
+    height: 80px;
+    color: black;
+}
+img{
+    border:9px transparent solid ;
+    border-radius: 23px;
+}
+div{
+    margin: 20px 0px;
+}
+h2 button{
+    height: 25px;
+    background-color:darkturquoise;
+    font-size: medium;
+}
+a:active{
+    background-color:violet;
+}
+.nav2{
+    font-family:'Playfair Display SC', serif;
+    font-weight: bold;
+ 
+
+}
+figure{
+    margin-left: 120px;
+}
+
+.n2{
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family:'Playfair Display SC', serif;
+    font-size: 18px;
+}
+.n4{
+    text-decoration: none;
+    border-top: 10px;
+    color: black;
+}
+.n5{
+    font-family:'Playfair Display SC', serif;
+    margin-top: 10px;
+    font-weight: bolder;
+    color: black;
+}
+body{
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+
+}
+.n6{
+    padding-left: 170px;
+    text-decoration: underline;
+    color: black;
+
+}
+video{
+    margin-left: 200px;
+}
+.acro {
+    padding: 75px;
+    text-align: center;
+    font-family: 'Playfair Display SC', serif;
+    font-size: large;
+    font-weight: bold;
+    animation-name: slidein;
+    animation-duration: 8s;
+    animation-iteration-count: 1;
+    background-color: #FF7E00;
+}
+.n3 {
+    color: black;
+
+}
+.w3-teal{
+    background-color: #FF7E00;
+}
+.w3-teal button {
+    border: none;
+}
+.w3-container {
+    color: black;
+ 
+   
+}
+.w3 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#mySidebar {
+    padding: 0;
+    margin: 0;
+    
+}
+.w3-bar-item w3-button w3-large {
+    margin-top:0;
+}
+.retour a {
+    margin-top: 15px;
+    margin-right: 17px;
+    float: right;
+    border: 1px transparent solid;
+    font-size: 16px;
+    color:black;
+}
+
+
+
+
+
+
+
